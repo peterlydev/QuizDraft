@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Aldrich&family=Lato&family=Lobster&family=Poppins:wght@300&family=Roboto&display=swap');
+
+.title {
+    text-transform: uppercase;
+    font-size: 8vw;
+    font-family: aldrich;
+    cursor: pointer;
+  }
+  
+  .header {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .divider {
+    margin: 10px;
+    width: 100%;
+    background-color: grey;
+  }
